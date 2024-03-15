@@ -15,7 +15,7 @@
   <body class="bg-white dark:bg-gray-900">
     <!--#17a6d7-->
     <nav
-      class="bg-white fixed w-full z-10 top-0 start-0 border-b border-gray-200 dark:bg-gray-900"
+      class="bg-white fixed w-full z-50 top-0 start-0 border-b border-gray-200 dark:bg-gray-900"
     >
       <div
         class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
@@ -951,6 +951,53 @@
       <!-- End Grid -->
     </div>
     <!-- End Card Blog --><!-- Card Blog -->
+
+    <section class="bg-white dark:bg-gray-900">
+      <div class="container px-6 py-10 mx-auto">
+          <div class="text-center">
+              <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">Descubra as novidades do Sistema de Saúde Kenko</h1>
+  
+              <p class="max-w-lg mx-auto mt-4 text-gray-500">
+                Conheça as mais recentes atualizações e recursos do Kenko, o sistema de saúde online que está transformando o cuidado médico. Navegue pelas novidades e veja como podemos ajudar a melhorar a sua saúde e bem-estar.
+              </p>
+          </div>
+  
+          <div class="grid grid-cols-1 gap-8 mt-8 lg:grid-cols-2">
+              <div>
+                  <img class="relative z-10 object-cover w-full rounded-md h-96" src="/img/png/funcionalidades.png" alt="">
+  
+                  <div class="relative z-20 max-w-lg p-6 mx-auto -mt-20 bg-white rounded-md shadow dark:bg-gray-900">
+                      <a href="#" class="font-semibold text-gray-800 hover:underline dark:text-white md:text-xl">
+                        Descubra Todas as Novas e mais Recentes Funcionalidades Que Deseja Saber
+                      </a>
+  
+                      <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
+                        Explore o universo das possibilidades com o nosso sistema de saúde online. Clique e desvende cada nova funcionalidade pensada para o seu bem-estar e conveniência.
+                      </p>
+  
+                      <p class="mt-3 text-sm text-[#17a6d7]">15 de Março de 2024</p>
+                  </div>
+              </div>
+  
+              <div>
+                  <img class="relative z-10 object-cover w-full rounded-md h-96" src="/img/jpg/comousar.jpg" alt="">
+  
+                  <div class="relative z-20 max-w-lg p-6 mx-auto -mt-20 bg-white rounded-md shadow dark:bg-gray-900">
+                      <a href="#" class="font-semibold text-gray-800 hover:underline dark:text-white md:text-xl">
+                        Como Utilizar o Sistema de Saúde Kenko? Descubra Aqui!
+                      </a>
+  
+                      <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
+                        Aprenda a navegar com facilidade no Kenko, o seu novo aliado na gestão da saúde online. Clique para saber mais sobre como este sistema inovador pode simplificar a sua vida.”
+                      </p>
+  
+                      <p class="mt-3 text-sm text-[#17a6d7]">10 de Março de 2024</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+
     <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
       <!-- Grid -->
       <div class="grid lg:grid-cols-2 lg:gap-y-16 gap-10">
